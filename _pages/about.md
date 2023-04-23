@@ -23,8 +23,7 @@ I am currently focusing on *Edge Intelligence*. My research interest includes d
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [*2023.04*]: 🎉🎉 test.
 
 # 📝 Publications 
 
@@ -32,7 +31,7 @@ I am currently focusing on *Edge Intelligence*. My research interest includes d
 <div class='paper-box-text' markdown="1">
 
 [DisCOV: Distributed COVID-19 Detection on X-Ray Images with Edge-Cloud Collaboration](https://ieeexplore.ieee.org/abstract/document/9681206/). *IEEE Transactions on Services Computing (TSC)*, 2022, 15(3): 1206-1219. \\
-Xiaolong Xu, **Hao Tian**, Xuyun Zhang, Lianyong Qi, Qiang He, and Wanchun Dou.
+Xiaolong Xu, <u> **Hao Tian** </u>, Xuyun Zhang, Lianyong Qi, Qiang He, and Wanchun Dou.
 </div>
 </div>
 
@@ -41,7 +40,7 @@ Xiaolong Xu, **Hao Tian**, Xuyun Zhang, Lianyong Qi, Qiang He, and Wanchun Dou.
 <div class='paper-box-text' markdown="1">
 
 [CoPace: Edge Computation Offloading and Caching for Self-Driving with Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9580706). *IEEE Transactions on Vehicular Technology (TVT)*, 2021, 70(12): 13281-13293. \\
-**Hao Tian**, Xiaolong Xu, Lianyong Qi, Xuyun Zhang, Wanchun Dou, Shui Yu, and Qiang Ni.
+<u> **Hao Tian** </u>, Xiaolong Xu, Lianyong Qi, Xuyun Zhang, Wanchun Dou, Shui Yu, and Qiang Ni.
 
 </div>
 </div>
@@ -50,7 +49,7 @@ Xiaolong Xu, **Hao Tian**, Xuyun Zhang, Lianyong Qi, Qiang He, and Wanchun Dou.
 <div class='paper-box-text' markdown="1">
 
 [DIMA: Distributed Cooperative Microservice Caching for Internet of Things in Edge Computing by Deep Reinforcement Learning](https://link.springer.com/article/10.1007/s11280-021-00939-7). *World Wide Web Journal*, 2022, 25(5): 1769-1792. \\
-**Hao Tian**, Xiaolong Xu, Tingyu Lin, Yong Cheng, Cheng Qian, Lei Ren, and Muhammad Bilal.
+<u> **Hao Tian** </u>, Xiaolong Xu, Tingyu Lin, Yong Cheng, Cheng Qian, Lei Ren, and Muhammad Bilal.
 
 </div>
 </div>
