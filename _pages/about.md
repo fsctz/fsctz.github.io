@@ -3,7 +3,7 @@
  * @[Description]: 
  * @[Contact]: withhaotian@gmail.com
  * @Date: 2023-04-23 22:23:44
- * @LastEditTime: 2023-04-23 22:28:57
+ * @LastEditTime: 2023-04-23 22:32:37
  * @Copyright (c) 2023 by Hao Tian, All Rights Reserved. 
 -->
 ---
@@ -16,41 +16,50 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %} {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %} 
+{% endif %} {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently pursuing my MSc degree in software engineering from [Nanjing University of Information Science and Technology](https://www.nuist.edu.cn/), where I am fortunate to be advised by [Prof. Xiaolong Xu](https://faculty.nuist.edu.cn/xuxiaolong/zh_CN/index.htm). Before that, I was an undergraduate student from [Nanjing University of Information Science and Technology](https://www.nuist.edu.cn/) and received my B.Eng. degree in Computer Science and Technology in Jue. 2020.
+
+I am currently focusing on *Edge Intelligence*. My research interest includes distributed edge inference and resource management.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [*2023.04*]: 🎉 Test.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TSC 2022</div><img src='images/tsc22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[DisCOV: Distributed COVID-19 Detection on X-Ray Images with Edge-Cloud Collaboration](https://ieeexplore.ieee.org/abstract/document/9681206/). IEEE Transactions on Services Computing (TSC), 2022, 15(3): 1206-1219. \\
+Xiaolong Xu, **Hao Tian**, Xuyun Zhang, Lianyong Qi, Qiang He, and Wanchun Dou.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT 2021</div><img src='images/tvt21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[CoPace: Edge Computation Offloading and Caching for Self-Driving with Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9580706). IEEE Transactions on Vehicular Technology (TVT), 2021, 70(12): 13281-13293. \\
+**Hao Tian**, Xiaolong Xu, Lianyong Qi, Xuyun Zhang, Wanchun Dou, Shui Yu, and Qiang Ni.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWWJ 2022</div><img src='images/wwwj22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DIMA: Distributed Cooperative Microservice Caching for Internet of Things in Edge Computing by Deep Reinforcement Learning](https://link.springer.com/article/10.1007/s11280-021-00939-7). World Wide Web Journal, 2022, 25(5): 1769-1792. \\
+**Hao Tian**, Xiaolong Xu, Tingyu Lin, Yong Cheng, Cheng Qian, Lei Ren, and Muhammad Bilal.
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- National Scholarships, Ministry of Education, *2022*
+- Jiangsu Puxin Elite Scholarship, Jiangsu Education Department, *2022*
+- Outstanding Graduates Award of Nanjing University of Information Science and Technology, *2020*
