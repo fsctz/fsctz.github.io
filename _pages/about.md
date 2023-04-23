@@ -37,7 +37,7 @@ Xiaolong Xu, **Hao Tian**, Xuyun Zhang, Lianyong Qi, Qiang He, and Wanchun Dou.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT 2021</div><img src='images/tvt21.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TVT 2021</div><img src='images/tvt21.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CoPace: Edge Computation Offloading and Caching for Self-Driving with Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9580706). IEEE Transactions on Vehicular Technology (TVT), 2021, 70(12): 13281-13293. \\
@@ -46,7 +46,7 @@ Xiaolong Xu, **Hao Tian**, Xuyun Zhang, Lianyong Qi, Qiang He, and Wanchun Dou.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWWJ 2022</div><img src='images/wwwj22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWWJ 2022</div><img src='images/wwwj22.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DIMA: Distributed Cooperative Microservice Caching for Internet of Things in Edge Computing by Deep Reinforcement Learning](https://link.springer.com/article/10.1007/s11280-021-00939-7). World Wide Web Journal, 2022, 25(5): 1769-1792. \\
@@ -57,9 +57,10 @@ Xiaolong Xu, **Hao Tian**, Xuyun Zhang, Lianyong Qi, Qiang He, and Wanchun Dou.
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+- National Scholarships, Ministry of Education, *2022*
+- Jiangsu Puxin Elite Scholarship, Jiangsu Education Department, *2022*
+- Outstanding Graduates Award of Nanjing University of Information Science and Technology, *2020*
+<!-- 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -69,4 +70,4 @@ Xiaolong Xu, **Hao Tian**, Xuyun Zhang, Lianyong Qi, Qiang He, and Wanchun Dou.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
