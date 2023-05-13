@@ -3,7 +3,7 @@
  * @[Description]: 
  * @[Contact]: withhaotian@gmail.com
  * @Date: 2023-04-23 22:23:44
- * @LastEditTime: 2023-05-13 15:27:43
+ * @LastEditTime: 2023-05-13 15:31:09
  * @Copyright (c) 2023 by Hao Tian, All Rights Reserved. 
 -->
 ---
@@ -33,16 +33,15 @@ My research interests lie in *Edge Intelligence*, including but not limited to d
 # 🔥 News
 - *2023.04*: 🎉🎉 test.
 
-
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div align="center"><div class="badge">IEEE TSC 2022</div><img src='images/tsc22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [DisCOV: Distributed COVID-19 Detection on X-Ray Images with Edge-Cloud Collaboration](https://ieeexplore.ieee.org/abstract/document/9681206/). *IEEE Transactions on Services Computing (TSC)*, 2022, 15(3): 1206-1219. \\
 Xiaolong Xu, <u><b>Hao Tian</b></u>, Xuyun Zhang, Lianyong Qi, Qiang He, and Wanchun Dou.
+</div>
+</div>
 
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div align="center"><div class="badge">IEEE TVT 2021</div><img src='images/tvt21.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -62,14 +61,13 @@ Xiaolong Xu, <u><b>Hao Tian</b></u>, Xuyun Zhang, Lianyong Qi, Qiang He, and Wan
 </div>
 </div>
 
+
 # 🎖 Honors and Awards
 - National Scholarships, Ministry of Education, *2022*
 - Jiangsu Puxin Elite Scholarship, Jiangsu Education Department, *2022*
 - Outstanding Graduates Award of Nanjing University of Information Science and Technology, *2020*
 
 <br />
-
-<!-- Click Counter -->
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=LkxfESltCRu7tsiRFwwXKkYbF9aximg92z1LdL0CQ0s'></script>
 
