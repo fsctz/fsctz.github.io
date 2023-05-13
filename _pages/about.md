@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently pursuing my MSc degree in software engineering from [Nanjing University of Information Science and Technology](https://www.nuist.edu.cn/), where I am fortunate to be advised by [Prof. Xiaolong Xu](https://faculty.nuist.edu.cn/xuxiaolong/zh_CN/index.htm). Before that, I was an undergraduate student from [Nanjing University of Information Science and Technology](https://www.nuist.edu.cn/) and received my B.Eng. degree in Computer Science and Technology in Jue. 2020.
 
-I am currently focusing on *Edge Intelligence*. My research interest includes distributed edge inference and resource management.
+My research interests lie in *Edge Intelligence*, including but not limited to distributed edge inference, heterogeneous edge training, and resource allocation in edge computing systems.
 
 
 # 🔥 News
