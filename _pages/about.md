@@ -23,7 +23,7 @@ My research interests lie in *Edge Intelligence*, including but not limited to d
 
 
 # 🔥 News
-- *2023.05*: I was awarded the first prize in the Fourth Graduate Innovation Achievement Exhibition.
+- [*2023.05*]: I was awarded the first prize in the Fourth Graduate Innovation Achievement Exhibition.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div align="center"><div class="badge">IEEE TSC 2022</div><img src='images/tsc22.png' alt="sym" width="100%"></div></div>
@@ -57,7 +57,7 @@ Xiaolong Xu, <u><b>Hao Tian</b></u>, Xuyun Zhang, Lianyong Qi, Qiang He, and Wan
 # 🎖 Honors and Awards
 - National Scholarships, Ministry of Education, *2022*
 - Jiangsu Puxin Elite Scholarship, Jiangsu Education Department, *2022*
-- Graduate Innovation Achievement Exhibition, First Prize, *2023*
+- First Prize, Graduate Innovation Achievement Exhibition, *2023*
 - Outstanding Graduates Award of Nanjing University of Information Science and Technology, *2020*
 
 <br />
