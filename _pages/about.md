@@ -1,3 +1,11 @@
+<!--
+ * @[Author]: Hao Tian
+ * @[Description]: 
+ * @[Contact]: withhaotian@gmail.com
+ * @Date: 2023-04-23 22:23:44
+ * @LastEditTime: 2023-05-16 20:03:51
+ * @Copyright (c) 2023 by Hao Tian, All Rights Reserved. 
+-->
 ---
 permalink: /
 title: ""
@@ -17,13 +25,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently pursuing my MSc degree in software engineering from [Nanjing University of Information Science and Technology](https://www.nuist.edu.cn/), where I am fortunate to be advised by [Prof. Xiaolong Xu](https://faculty.nuist.edu.cn/xuxiaolong/zh_CN/index.htm). Before that, I was an undergraduate student from [Nanjing University of Information Science and Technology](https://www.nuist.edu.cn/) and received my B.Eng. degree in Computer Science and Technology in Jue. 2020.
+I am currently pursuing my M.Sc. Degree in software engineering from [Nanjing University of Information Science and Technology](https://www.nuist.edu.cn/), where I am fortunate to be advised by [Prof. Xiaolong Xu](https://faculty.nuist.edu.cn/xuxiaolong/zh_CN/index.htm). Before that, I was an undergraduate student from [Nanjing University of Information Science and Technology](https://www.nuist.edu.cn/) and received my B.Eng. Degree in Computer Science and Technology in Jue. 2020.
 
 My research interests lie in *Edge Intelligence*, including but not limited to distributed edge inference, heterogeneous edge training, and resource allocation in edge computing systems.
 
 
 # 🔥 News
-- *2023.04*: 🎉🎉 test.
+- *2023.05*: I was awarded the first prize in the Fourth Graduate Innovation Achievement Exhibition.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div align="center"><div class="badge">IEEE TSC 2022</div><img src='images/tsc22.png' alt="sym" width="100%"></div></div>
@@ -57,6 +65,7 @@ Xiaolong Xu, <u><b>Hao Tian</b></u>, Xuyun Zhang, Lianyong Qi, Qiang He, and Wan
 # 🎖 Honors and Awards
 - National Scholarships, Ministry of Education, *2022*
 - Jiangsu Puxin Elite Scholarship, Jiangsu Education Department, *2022*
+- Graduate Innovation Achievement Exhibition, First Prize, *2023*
 - Outstanding Graduates Award of Nanjing University of Information Science and Technology, *2020*
 
 <br />
