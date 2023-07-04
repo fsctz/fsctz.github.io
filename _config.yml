@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hao Tian"
-description              : "Postgraduate Student"
+description              : "Ph.D Candidate"
 repository               : "withhaotian/withhaotian.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  codeva-MR3Gyqp5eZ # get baidu_site_verification from
 author:
   name             : "Hao Tian（田昊）"
   avatar           : "images/person.png"
-  bio              : "Nanjing University of Information Science and Technology"
+  bio              : "Department of Computer Science and Technology, Nanjing University"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
