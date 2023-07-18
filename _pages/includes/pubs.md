@@ -11,7 +11,7 @@ Xiaolong Xu, <u><b>Hao Tian</b></u>, Xuyun Zhang, Lianyong Qi, Qiang He, and Wan
 <div class='paper-box'><div class='paper-box-image'><div align="center"><div class="badge">IEEE TVT 2021</div><img src='images/tvt21.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[CoPace: Edge Computation Offloading and Caching for Self-Driving with Deep Reinforcement Learning](papers/copace_22.pdf). *IEEE Transactions on Vehicular Technology (TVT)*, 2021, 70(12): 13281-13293. \\
+[CoPace: Edge Computation Offloading and Caching for Self-Driving with Deep Reinforcement Learning](papers/copace_21.pdf). *IEEE Transactions on Vehicular Technology (TVT)*, 2021, 70(12): 13281-13293. \\
 <u><b>Hao Tian</b></u>, Xiaolong Xu, Lianyong Qi, Xuyun Zhang, Wanchun Dou, Shui Yu, and Qiang Ni.
 
 </div>
