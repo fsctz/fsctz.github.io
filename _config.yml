@@ -23,7 +23,7 @@ baidu_site_verification  :  codeva-MR3Gyqp5eZ # get baidu_site_verification from
 author:
   name             : "Hao Tian（田昊）"
   avatar           : "images/person.png"
-  bio              : "Department of Computer Science and Technology, Nanjing University"
+  bio              : "State Key Laboratory of Novel Software Technology, Nanjing University"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-5335-5898"
+  orcid            : #"https://orcid.org/0000-0002-5335-5898"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  bilibili         : "https://space.bilibili.com/23073763"
+  bilibili         : #"https://space.bilibili.com/23073763"
 
 
 # Reading Files
