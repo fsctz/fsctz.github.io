@@ -9,7 +9,7 @@
 <div class='paper-box-text' markdown="1">
 
 Xiaolong Xu, <u><b>Hao Tian</b></u>, Xuyun Zhang, Lianyong Qi, Qiang He, and Wanchun Dou.<br>
-DisCOV: Distributed COVID-19 Detection on X-Ray Images with Edge-Cloud Collaboration. *IEEE Transactions on Services Computing (TSC)*, vol. 15, no. 3, pp. 1206-1219, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9681206) [[Slide]](files/IEEE SERVICE 2022-slides.pdf)
+DisCOV: Distributed COVID-19 Detection on X-Ray Images with Edge-Cloud Collaboration. *IEEE Transactions on Services Computing (TSC)*, vol. 15, no. 3, pp. 1206-1219, 2022. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9681206) [[Slides]](files/IEEE SERVICE 2022-slides.pdf)
 </div>
 </div>
 
