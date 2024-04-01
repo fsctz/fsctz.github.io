@@ -1,8 +1,3 @@
-<!--
- * @Author: Hao Tian (htiannju@163.com)
- * @Date: 2023-05-16 23:06:33
- * @Description: 
--->
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div align="center"><div class="badge">IEEE TSC 2022</div><img src='images/tsc22.png' alt="sym" width="100%"></div></div>
