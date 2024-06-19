@@ -130,3 +130,9 @@ h1:before, .anchor:before {
     float: left;
     font-weight: bold;
 }
+
+.justified-text {
+    max-width: 100%;
+    order: 1;
+    text-align: justify;
+}
