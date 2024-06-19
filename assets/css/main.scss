@@ -132,9 +132,7 @@ h1:before, .anchor:before {
 }
 
 .justified-text {
-    max-width: 100%;
-    order: 1;
     text-align: justify;
     border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
+    padding: 2em;
 }
