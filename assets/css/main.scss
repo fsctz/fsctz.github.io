@@ -109,3 +109,24 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.pubtitle{
+    background: #00369f;
+    color: white;
+    font-size: 12px;
+    padding: 1px 5px 1px 5px;
+    border-radius: 15px;
+    float: left;
+    font-weight: bold;
+}
+
+.awardtitle{
+    color: #00369f;
+    outline: 2px solid #00369f;
+    outline-offset: -2px;
+    font-size: 12px;
+    padding: 1px 5px 1px 5px;
+    border-radius: 15px;
+    float: left;
+    font-weight: bold;
+}
