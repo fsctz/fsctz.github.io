@@ -134,6 +134,7 @@ h1:before, .anchor:before {
 .justified-text {
     max-width: 100%;
     text-align: justify;
+    order: 1;
     // border-bottom: 1px #efefef solid;
-    padding: 1em;
+    padding: 0.5em;
 }
