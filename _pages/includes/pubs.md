@@ -3,8 +3,10 @@
 <div class='paper-box'><div class='paper-box-image'><div align="center"><div class="badge">IEEE TSC 2022</div><img src='images/tsc22.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-Xiaolong Xu, <b>Hao Tian</b>, Xuyun Zhang, Lianyong Qi, Qiang He, and Wanchun Dou.<br>
-[DisCOV: Distributed COVID-19 Detection on X-Ray Images with Edge-Cloud Collaboration](https://ieeexplore.ieee.org/abstract/document/9681206). *IEEE Transactions on Services Computing (TSC)*, 2022. [[Slides]](files/IEEE SERVICE 2022-slides.pdf)
+[DisCOV: Distributed COVID-19 Detection on X-Ray Images with Edge-Cloud Collaboration](https://ieeexplore.ieee.org/abstract/document/9681206) <br>
+Xiaolong Xu, <b>Hao Tian</b>, Xuyun Zhang, Lianyong Qi, Qiang He, Wanchun Dou <br>
+*IEEE Transactions on Services Computing (TSC)*, 2022 <br>
+[[Slides]](files/IEEE SERVICE 2022-slides.pdf)
 </div>
 </div>
 
@@ -12,8 +14,10 @@ Xiaolong Xu, <b>Hao Tian</b>, Xuyun Zhang, Lianyong Qi, Qiang He, and Wanchun Do
 <div class='paper-box'><div class='paper-box-image'><div align="center"><div class="badge">IEEE TVT 2021</div><img src='images/tvt21.png' alt="sym" width="60%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<b>Hao Tian</b>, Xiaolong Xu, Lianyong Qi, Xuyun Zhang, Wanchun Dou, Shui Yu, and Qiang Ni.<br>
-[CoPace: Edge Computation Offloading and Caching for Self-Driving with Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9580706). *IEEE Transactions on Vehicular Technology (TVT)*, 2021. [[Code]](https://github.com/withhaotian/DDPG-Agent-for-Edge.git)
+[CoPace: Edge Computation Offloading and Caching for Self-Driving with Deep Reinforcement Learning](https://ieeexplore.ieee.org/abstract/document/9580706) <br>
+<b>Hao Tian</b>, Xiaolong Xu, Lianyong Qi, Xuyun Zhang, Wanchun Dou, Shui Yu, Qiang Ni <br>
+*IEEE Transactions on Vehicular Technology (TVT)*, 2021 <br>
+[[Code]](https://github.com/withhaotian/DDPG-Agent-for-Edge.git)
 
 </div>
 </div>
@@ -21,9 +25,9 @@ Xiaolong Xu, <b>Hao Tian</b>, Xuyun Zhang, Lianyong Qi, Qiang He, and Wanchun Do
 <div class='paper-box'><div class='paper-box-image'><div align="center"><div class="badge">WWWJ 2022</div><img src='images/wwwj22.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<b>Hao Tian</b>, Xiaolong Xu, Tingyu Lin, Yong Cheng, Cheng Qian, Lei Ren, and Muhammad Bilal. <br> 
-[DIMA: Distributed Cooperative Microservice Caching for Internet of Things in Edge Computing by Deep Reinforcement Learning](https://link.springer.com/article/10.1007/s11280-021-00939-7). *World Wide Web Journal*, 2022.
-
+[DIMA: Distributed Cooperative Microservice Caching for Internet of Things in Edge Computing by Deep Reinforcement Learning](https://link.springer.com/article/10.1007/s11280-021-00939-7) <br> 
+<b>Hao Tian</b>, Xiaolong Xu, Tingyu Lin, Yong Cheng, Cheng Qian, Lei Ren, Muhammad Bilal <br> 
+ *World Wide Web Journal*, 2022.
 </div>
 </div>
 
