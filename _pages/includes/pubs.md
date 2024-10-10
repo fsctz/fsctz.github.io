@@ -21,7 +21,7 @@
 
 
 HASFL: Harnessing Heterogeneous Models Across Diverse Devices for Enhanced Federated Learning <br>
-<b>Jiangshan Hao, Fang Dong, Bingheng Cen, Shucun Fu</b>, Ruiting Zhou, Ding Ding <br>
+Jiangshan Hao, Fang Dong, Bingheng Cen, <b>Shucun Fu</b>, Ruiting Zhou, Ding Ding <br>
 *Proceedings of the 51st International Conference on Parallel Processing (ICPP)*. 2024: 484-493. <br>
 
 
