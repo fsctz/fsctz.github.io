@@ -20,6 +20,15 @@
  *Software: Practice and Experience (SPE)*, 2023. <br>
 
 
+移动边缘环境下面向工作流管理的计算迁移方法 <br> 
+<b>伏舒存</b>, 付章杰, 邢国稳, 刘庆祥, 许小龙 <br> 
+ *计算机应用*, 2018. <br>
+
+
+Flexible automatic detection for security management of dispatching data network.  <br> 
+Xianrui Yang, Yuming Liu, Jiehong Wang, Zhao Yao, Yanping Zhou, <b>Shucun Fu*</b>  <br>
+*Journal of Cloud Computing (JCC)*, 9 (2020), 2020. <br>
+
 HASFL: Harnessing Heterogeneous Models Across Diverse Devices for Enhanced Federated Learning <br>
 Jiangshan Hao, Fang Dong, Bingheng Cen, <b>Shucun Fu</b>, Ruiting Zhou, Ding Ding <br>
 *Proceedings of the 51st International Conference on Parallel Processing (ICPP)*. 2024: 484-493. <br>
@@ -44,8 +53,18 @@ A Multi-Objective Crowdsourcing Method for Mobile Video Streaming <br>
 Xiaolong Xu, <b>Shucun Fu</b>, Lianyong Qi, Xuyun Zhang, Wanchun Dou <br> 
 *IEEE International Conference on Web Services (ICWS)*, 2019: 209-213. <br>
 
+Multiobjective computation offloading for workflow management in cloudlet‐based mobile cloud using NSGA‐II. <br> 
+Xiaolong Xu, <b>Shucun Fu</b>, Yuan Yuan, Yun Luo, Lianyong Qi, Wenmin Lin, and Wanchun Dou <br>
+*Computational Intelligence*, 35(3): 476-495, 2019. <br>  
 
-移动边缘环境下面向工作流管理的计算迁移方法 <br> 
-<b>伏舒存</b>, 付章杰, 邢国稳, 刘庆祥, 许小龙 <br> 
- *计算机应用*, 2018. <br>
+An IoT-oriented data placement method with privacy preservation in cloud environment. <br> 
+Xiaolong Xu, <b>Shucun Fu</b>, Lianyong Qi, Xuyun Zhang, Qingxiang Liu, Qiang He, Shancang Li <br>
+*Journal of Network and Computer Applications (JNCA)*, 124(2018): 148-157. <br>
 
+Energy-efficient computation offloading in cloudlet-based mobile cloud using NSGA-II. <br>
+Xiaolong Xu, <b>Shucun Fu</b>, Yuan Yuan, Lianyong Qi, Wanchun Dou <br>
+*Eleventh International Conference on Mobile Computing and Ubiquitous Network (ICMU)*, 2018: 1-6. <br>
+
+Dynamic resource allocation for load balancing in fog environment. <br>
+Xiaolong Xu, <b>Shucun Fu</b>, Qing Cai, Wei Tian, Wenjie Liu, Wanchun Dou, Xingming Sun, Alex X Liu <br>
+*Wireless Communications and Mobile Computing*, 2018(1), 6421607. <br>
