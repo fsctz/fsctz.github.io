@@ -25,8 +25,8 @@
  *计算机应用*, 2018. <br>
 
 
-Flexible automatic detection for security management of dispatching data network.  <br> 
-Xianrui Yang, Yuming Liu, Jiehong Wang, Zhao Yao, Yanping Zhou, <b>Shucun Fu*</b>  <br>
+Flexible automatic detection for security management of dispatching data network. <br> 
+Xianrui Yang, Yuming Liu, Jiehong Wang, Zhao Yao, Yanping Zhou, <b>Shucun Fu</b> <br>
 *Journal of Cloud Computing (JCC)*, 9 (2020), 2020. <br>
 
 HASFL: Harnessing Heterogeneous Models Across Diverse Devices for Enhanced Federated Learning <br>
