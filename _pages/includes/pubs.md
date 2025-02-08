@@ -1,5 +1,9 @@
 # 📝 Publications 
 
+[Multi-Dimensional Training Optimization for Efficient Federated Synergy Learning] <br>
+<b>Shucun Fu</b>, Fang Dong, Runze Chen, Dian Shen, Jinghui Zhang, Qiang He <br>
+*IEEE Transactions on Mobile Computing (TMC)*, 2025. <br>
+
 [Joint Optimization of Device Selection and Resource Allocation for Multiple Federations in Federated Edge Learning](https://ieeexplore.ieee.org/abstract/document/10365387) <br>
 <b>Shucun Fu</b>, Fang Dong, Dian Shen, Jinghui Zhang, Zhaowu Huang, Qiang He <br>
 *IEEE Transactions on Services Computing (TSC)*, 17(1): 251-262, 2024. <br>
