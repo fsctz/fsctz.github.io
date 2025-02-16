@@ -1,6 +1,6 @@
 # 📝 Publications 
 
-[Multi-Dimensional Training Optimization for Efficient Federated Synergy Learning] <br>
+[Multi-Dimensional Training Optimization for Efficient Federated Synergy Learning](https://ieeexplore.ieee.org/document/10879307) <br>
 <b>Shucun Fu</b>, Fang Dong, Runze Chen, Dian Shen, Jinghui Zhang, Qiang He <br>
 *IEEE Transactions on Mobile Computing (TMC)*, 2025. <br>
 
