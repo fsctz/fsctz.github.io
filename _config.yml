@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Shucun Fu"
-description              : "Ph.D Candidate"
+description              : "Postdoctoral Researcher"
 repository               : "fsctz/fsctz.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  codeva-MR3Gyqp5eZ # get baidu_site_verification from
 author:
   name             : "Shucun Fu (伏舒存)"
   avatar           : "images/me.jpg"
-  bio              : "School of Computer Science and Engineering, Southeast University"
+  bio              : "School of Software, Nanjing University of Information Science and Technology"
   location         : "Nanjing, China"
   employer         :
   pubmed           : 
@@ -45,10 +45,10 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : #"https://orcid.org/0000-0002-5335-5898"
+  orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
@@ -57,7 +57,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  bilibili         : #"https://space.bilibili.com/23073763"
+  bilibili         : 
 
 
 # Reading Files
